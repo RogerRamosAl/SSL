@@ -1,3 +1,3 @@
 # Primer programa en C
 
-Se instaló el compilador con gcc, utilizando actualmente el estándar c17
+Se instaló con el MSYS2 eligiendo el entorno ucrt64 el compilador con gcc , con el estándar c17
